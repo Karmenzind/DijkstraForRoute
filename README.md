@@ -1,2 +1,2 @@
-a dijkstra algorithm with prority queue and heap
+a dijkstra algorithm with priority queue and heap
 in matlab and python
